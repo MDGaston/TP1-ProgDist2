@@ -14,7 +14,7 @@ Una vez situados correr el docker compose
 docker compose up
 ```
 
-Para probar el proyecto entrar importar la coleccion de Postman
+Para probar el proyecto importar la coleccion de Postman
 Es importante primero ejecutar el endpoint de login, para realizar las pruebas iniciales loguear con el siguiente usuario y contraseña
 
 ```bash
